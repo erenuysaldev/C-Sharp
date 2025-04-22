@@ -56,6 +56,7 @@ namespace For_döngüsü
 
             Console.ResetColor();
             #endregion
+          
         }
     }
 }

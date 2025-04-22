@@ -1,0 +1,7 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe.config
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.AssemblyReference.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Döngüler\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.pdb
