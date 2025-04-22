@@ -1,0 +1,7 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\C-sharp\11.gün\Diziler\Diziler\Diziler\obj\Debug\Diziler.pdb
