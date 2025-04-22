@@ -1,0 +1,17 @@
+ Başlangıç: Metot Nedir?
+Metot = Belirli bir işi yapan kod bloğudur.
+Örneğin: Topla(5, 10) gibi bir metot, iki sayıyı toplar.
+
+ Not:
+return kelimesi sonucu dışarı gönderir
+
+Metot çağrıldığında o sonucu başka yerde kullanabiliriz
+ 1. Geriye Değer Döndüren Metotlar (return ile)
+Bu tür metotlar bir işlem yapar ve sonucu geri verir. Genelde hesaplama gibi işlemler için kullanılır.
+
+2. Geriye Değer Döndürmeyen Metotlar (void)
+Bir iş yapar ama sonuç döndürmez. Genelde ekrana yazı yazma, uyarı verme gibi işler için kullanılır.
+
+ 3. Parametresiz Metotlar
+Bazı metotlar dışarıdan veri almaz, sabit bir işi yapar.
+
