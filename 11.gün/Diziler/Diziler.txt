@@ -1,0 +1,62 @@
+				Dizi (Array) Nedir?
+Dizi, ayný türden birden fazla veriyi tek bir deðiþken altýnda saklamamýzý saðlar.
+
+Neden Kullanýlýr?
+Düþünsene: 5 öðrencinin notunu tutacaksýn. Her biri için ayrý deðiþken tanýmlamak yerine:
+			int[] notlar = { 85, 90, 78, 95, 60 };,
+tek satýrda hepsini saklayabiliyorsun. Hem düzenli, hem kullanýþlý 
+
+			Dizi Oluþturma Yöntemleri
+1)Tanýmlarken deðer atama:
+		string[] sehirler = { "Ankara", "Ýstanbul", "Ýzmir" };
+2)Sonradan deðer atama:
+		int[] sayilar = new int[5]; // 5 elemanlý boþ dizi
+		sayilar[0] = 10;
+		sayilar[1] = 20;
+
+	Dizi Üzerinde Dolaþmak
+for ile:
+for (int i = 0; i < sehirler.Length; i++)
+{
+    Console.WriteLine(sehirler[i]);
+}
+
+foreach ile:
+foreach (string sehir in sehirler)
+{
+    Console.WriteLine(sehir);
+}
+
+ 2 Boyutlu Diziler (Multi-Dimensional Arrays)
+Bir dizinin içinde baþka diziler barýndýrarak çoklu boyutlu diziler oluþturabiliriz. Bu tür diziler, özellikle tablo þeklindeki verileri saklamak için çok kullanýþlýdýr.
+--2 Boyutlu Dizi Oluþturma
+Bir 2 boyutlu dizi oluþturduðunda, bir satýr ve sütun yapýsýna sahip olursun. Bu, týpký bir matris gibi çalýþýr.
+Tanýmlama:
+int[,] matris = new int[3, 3]; // 3 satýr, 3 sütun
+Burada, 3, 3 boyutlarý, 3 satýr ve 3 sütundan oluþan bir matris oluþturur.
+Baþlangýç Deðerleri ile Tanýmlama:
+int[,] sayilar = {
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+};
+
+
+ ----2 Boyutlu Dizi Üzerinde Dolaþma
+Bir 2 boyutlu dizinin her elemanýný gezmek için iç içe for döngüleri kullanýlýr.
+for (int i = 0; i < matris.GetLength(0); i++) // Satýrlar
+{
+    for (int j = 0; j < matris.GetLength(1); j++) // Sütunlar
+    {
+        Console.Write(matris[i, j] + "\t"); // Eleman yazdýr
+    }
+    Console.WriteLine(); // Satýr sonu
+}
+Not: matris.GetLength(0) satýr sayýsýný, matris.GetLength(1) ise sütun sayýsýný verir.
+
+
+
+
+
+
+
