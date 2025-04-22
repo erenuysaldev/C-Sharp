@@ -1,0 +1,17 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\bin\Debug\net8.0-windows\WindowsFormApp.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\bin\Debug\net8.0-windows\WindowsFormApp.deps.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\bin\Debug\net8.0-windows\WindowsFormApp.runtimeconfig.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\bin\Debug\net8.0-windows\WindowsFormApp.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\bin\Debug\net8.0-windows\WindowsFormApp.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.Form1.resources
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.AssemblyInfoInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.AssemblyInfo.cs
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\refint\WindowsFormApp.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.genruntimeconfig.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\ref\WindowsFormApp.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\5.gün\WindowsFormApp\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.Form2.resources

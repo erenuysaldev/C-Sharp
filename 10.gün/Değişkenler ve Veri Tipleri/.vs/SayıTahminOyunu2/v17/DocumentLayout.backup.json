@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren\\10.g\u00FCn\\Say\u0131TahminOyunu2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F741A7D-9D86-4AF1-BF3D-B328CDCB34FB}|Say\u0131TahminOyunu2\\Say\u0131TahminOyunu2.csproj|c:\\users\\matbaaloji yaz\u0131l\u0131m\\desktop\\eren\\10.g\u00FCn\\say\u0131tahminoyunu2\\say\u0131tahminoyunu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F741A7D-9D86-4AF1-BF3D-B328CDCB34FB}|Say\u0131TahminOyunu2\\Say\u0131TahminOyunu2.csproj|solutionrelative:say\u0131tahminoyunu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren\\10.g\u00FCn\\Say\u0131TahminOyunu2\\Say\u0131TahminOyunu2\\Program.cs",
+              "RelativeDocumentMoniker": "Say\u0131TahminOyunu2\\Program.cs",
+              "ToolTip": "C:\\Users\\Matbaaloji Yaz\u0131l\u0131m\\Desktop\\eren\\10.g\u00FCn\\Say\u0131TahminOyunu2\\Say\u0131TahminOyunu2\\Program.cs",
+              "RelativeToolTip": "Say\u0131TahminOyunu2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:49:40.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\bin\Debug\SayıTahminOyunu.exe.config
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\bin\Debug\SayıTahminOyunu.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\bin\Debug\SayıTahminOyunu.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\obj\Debug\SayıTahminOyunu.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\ConsoleApp1\ConsoleApp1\obj\Debug\SayıTahminOyunu.pdb

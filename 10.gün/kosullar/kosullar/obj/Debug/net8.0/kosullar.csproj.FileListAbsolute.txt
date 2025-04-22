@@ -1,0 +1,14 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\bin\Debug\net8.0\kosullar.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\bin\Debug\net8.0\kosullar.deps.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\bin\Debug\net8.0\kosullar.runtimeconfig.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\bin\Debug\net8.0\kosullar.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\bin\Debug\net8.0\kosullar.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.AssemblyInfoInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.AssemblyInfo.cs
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\refint\kosullar.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\kosullar.genruntimeconfig.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\kosullar\kosullar\obj\Debug\net8.0\ref\kosullar.dll

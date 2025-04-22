@@ -1,0 +1,7 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\bin\Debug\SayıTahminOyunu2.exe.config
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\bin\Debug\SayıTahminOyunu2.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\bin\Debug\SayıTahminOyunu2.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\obj\Debug\SayıTahminOyunu2.csproj.AssemblyReference.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\obj\Debug\SayıTahminOyunu2.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\obj\Debug\SayıTahminOyunu2.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\10.gün\SayıTahminOyunu2\SayıTahminOyunu2\obj\Debug\SayıTahminOyunu2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\4.gün\08_Methods\08_Methods\obj\Debug\08_Methods.pdb

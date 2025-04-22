@@ -1,0 +1,7 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\bin\Debug\For döngüsü.exe.config
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\bin\Debug\For döngüsü.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\bin\Debug\For döngüsü.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\obj\Debug\For döngüsü.csproj.AssemblyReference.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\obj\Debug\For döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\obj\Debug\For döngüsü.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\11.gün\For döngüsü\For döngüsü\obj\Debug\For döngüsü.pdb

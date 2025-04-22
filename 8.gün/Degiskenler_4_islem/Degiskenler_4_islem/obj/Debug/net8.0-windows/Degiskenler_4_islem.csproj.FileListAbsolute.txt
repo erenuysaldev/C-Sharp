@@ -1,0 +1,16 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\net8.0-windows\Degiskenler_4_islem.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\net8.0-windows\Degiskenler_4_islem.deps.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\net8.0-windows\Degiskenler_4_islem.runtimeconfig.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\net8.0-windows\Degiskenler_4_islem.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\net8.0-windows\Degiskenler_4_islem.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.Form1.resources
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.csproj.GenerateResource.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.AssemblyInfoInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.AssemblyInfo.cs
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\refint\Degiskenler_4_islem.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\Degiskenler_4_islem.genruntimeconfig.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\8.gün\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\net8.0-windows\ref\Degiskenler_4_islem.dll
