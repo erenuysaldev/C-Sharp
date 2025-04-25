@@ -22,12 +22,12 @@ namespace Miras_Inheritance
             Kopek kopek = new Kopek();
             kopek.Ad = "Karabaş";
             kopek.SesCikar(); // Kalıtımdan gelir
-            kopek.Havla();    // Kendine özel
+            //kopek.Havla();    // Kendine özel
 
             Kedi kedi = new Kedi();
             kedi.Ad = "Tekir";
             kedi.SesCikar();  // Kalıtımdan gelir
-            kedi.Miyavla();   // Kendine özel
+            //kedi.Miyavla();   // Kendine özel
             Araba araba = new Araba { Marka = "BMW" };
             araba.Calistir();
             araba.CamAc();
@@ -35,6 +35,14 @@ namespace Miras_Inheritance
             Motosiklet motor = new Motosiklet { Marka = "Yamaha" };
             motor.Calistir();
             motor.TekTeker();
+            
+            
+                Hayvan h1 = new Kopek { Ad = "Karabaş" };
+                Hayvan h2 = new Kedi { Ad = "Tekir" };
+
+                h1.SesCikar(); // havladı! 🐶
+                h2.SesCikar(); // miyavladı! 🐱
+            }
         }
     }
 }
