@@ -11,6 +11,8 @@ namespace ECommerceApp
         private string name;
         private string email;
         private string password;
+        public List<Order> Orders { get; set; }
+
         public string Role { get; private set; } = "Customer";
 
         public string Name
@@ -42,6 +44,20 @@ namespace ECommerceApp
         {
             Console.WriteLine($"Ad: {Name}, Email: {Email}, Rol: {Role}");
         }
-    }
+        public void ShowOrderHistory()
+        {
+            if (Orders.Count == 0)
+            {
+                Console.WriteLine("Henüz siparişiniz yok.");
+                return;
+            }
 
+            Console.WriteLine("Sipariş Geçmişi:");
+            foreach (var order in Orders)
+            {
+                order.ShowOrder();
+                Console.WriteLine("------------------");
+            }
+        }
+    }
 }
