@@ -166,35 +166,37 @@ namespace Metotlar
 
         static void Main()
         {
-        //    // Kullanıcıdan sayı alıyoruz
-        //    Console.WriteLine("Bir sayı girin: ");
-        //    int sayi = Convert.ToInt32(Console.ReadLine());
+            // Kullanıcıdan sayı alıyoruz
+            Console.WriteLine("Bir sayı girin: ");
+            int sayi = Convert.ToInt32(Console.ReadLine());
 
-        //    // Kullanıcıdan başka bir sayı alıyoruz
-        //    Console.WriteLine("Karşılaştırmak için başka bir sayı girin: ");
-        //    int sayi2 = Convert.ToInt32(Console.ReadLine());
+            // Kullanıcıdan başka bir sayı alıyoruz
+            Console.WriteLine("Karşılaştırmak için başka bir sayı girin: ");
+            int sayi2 = Convert.ToInt32(Console.ReadLine());
 
-        //    // BuyukSayi metodunu kullanarak büyük sayıyı buluyoruz
-        //    int buyuk = BuyukSayi(sayi, sayi2);
-        //    Console.WriteLine("Büyük sayı: " + buyuk);
+            // BuyukSayi metodunu kullanarak büyük sayıyı buluyoruz
+            int buyuk = BuyukSayi(sayi, sayi2);
+            Console.WriteLine("Büyük sayı: " + buyuk);
 
-        //    // CiftMi metodunu kullanarak sayının çift mi olduğunu kontrol ediyoruz
-        //    if (CiftMi(sayi))
-        //    {
-        //        Console.WriteLine(sayi + " sayısı çifttir.");
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine(sayi + " sayısı tektir.");
-        //    }
+            // CiftMi metodunu kullanarak sayının çift mi olduğunu kontrol ediyoruz
+            if (CiftMi(sayi))
+            {
+                Console.WriteLine(sayi + " sayısı çifttir.");
+            }
+            else
+            {
+                Console.WriteLine(sayi + " sayısı tektir.");
+            }
 
-        //    // KareAl metodunu kullanarak sayının karesini hesaplıyoruz
-        //    KareAl(sayi);
+            // KareAl metodunu kullanarak sayının karesini hesaplıyoruz
+            KareAl(sayi);
 
-        //    // Karekok metodunu kullanarak sayının karekökünü hesaplıyoruz
-        //    double karekokSonuc = Karekok(sayi);
-        //    Console.WriteLine(sayi + " sayısının karekökü: " + karekokSonuc);
-        //}
-        #endregion
+            // Karekok metodunu kullanarak sayının karekökünü hesaplıyoruz
+            double karekokSonuc = Karekok(sayi);
+            Console.WriteLine(sayi + " sayısının karekökü: " + karekokSonuc);
+
+
+        }
+#endregion
     }
 }

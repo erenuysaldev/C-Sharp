@@ -1,0 +1,9 @@
+﻿ Kapsülleme Nedir?
+Kapsülleme, sınıf içindeki verilerin dışarıdan doğrudan erişimini engelleyip get/set metotları (ya da C#'ta "özellikler" – Properties) aracılığıyla kontrollü erişim sağlamaktır. Bu sayede:
+
+Veriler korunur.
+
+İstemediğimiz şekilde değiştirilmesinin önüne geçilir.
+
+İleride kuralları değiştirmek kolaylaşır.
+
