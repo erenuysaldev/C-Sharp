@@ -1,0 +1,11 @@
+ASP.NET Core uygulamalarının temel yapısı şu şekilde olacaktır:
+
+Program.cs: Uygulamanın başlangıç noktasıdır. Burada uygulama servisleri yapılandırılır.
+
+Startup.cs: Web uygulamanızın yapılandırma ayarlarının yer aldığı sınıftır. Burada HTTP isteklerini işlemek için gerekli olan middleware’leri (ara yazılımlar) tanımlarsınız.
+
+Controllers: Web uygulamanızın controller sınıflarını içerir. Kullanıcıdan gelen istekleri alır ve uygun cevabı döner.
+
+Views: Kullanıcıya gösterilecek HTML sayfalarını içerir. ASP.NET Core, Razor motorunu kullanarak dinamik içerik sağlar.
+
+Models: Uygulamanızda kullanılan veri yapılarını tanımlar.
