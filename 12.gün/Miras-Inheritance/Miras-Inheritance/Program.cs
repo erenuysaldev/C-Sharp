@@ -40,8 +40,8 @@ namespace Miras_Inheritance
                 Hayvan h1 = new Kopek { Ad = "Karabaş" };
                 Hayvan h2 = new Kedi { Ad = "Tekir" };
 
-                h1.SesCikar(); // havladı! 🐶
-                h2.SesCikar(); // miyavladı! 🐱
+                h1.SesCikar(); // havladı! 
+                h2.SesCikar(); // miyavladı! 
             }
         }
     }
